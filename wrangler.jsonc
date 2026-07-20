@@ -1,0 +1,12 @@
+{
+  "name": "titanop-bot",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-07-20",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "titanop-db"
+    }
+  ]
+}
